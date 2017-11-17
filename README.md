@@ -3,13 +3,12 @@ practice
 
 
 ## 単語  
-クローン  
-コミット  
-プッシュ  
-プル  
-マージ  
-コミット  
-ブランチ  
+clone  
+commit  
+push  
+pull  
+merge 
+brunch  
 
 ## 編集からプッシュ迄
 1 編集  
