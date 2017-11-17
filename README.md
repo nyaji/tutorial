@@ -1,5 +1,6 @@
 # tutorial
-practice
+千里の道も一歩から。practiceの始まりです。  
+果たして電卓を作れる日は来るのでしょうか・・・
 
 
 ## 単語  
@@ -19,3 +20,4 @@ brunch
 ## LINK
 https://qiita.com/wnoguchi/items/f7358a227dfe2640cce3  
 https://qiita.com/tdrk/items/a0554763c29f60e347b  
+https://qiita.com/oreo/items/82183bfbaac69971917f  
